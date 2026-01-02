@@ -12,7 +12,7 @@ const char* ap_password = "12345678";
 // SD card use করলে GPIO4 conflict হতে পারে।
 #define FLASH_LED_PIN 4
 bool flashOn = false;
-
+//==================browse: 192.168.4.1============================
 // ===================== Servo pins =====================
 // Try 13 & 12 first.
 #define SERVO1_PIN 13
